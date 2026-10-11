@@ -24,13 +24,38 @@ What sets me apart is bridging the gap between shop-floor operations and IT by a
 
 ---
 
-### 🛠️ Technical & Industrial Stack
-![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-Operational_Excellence-blue?style=for-the-badge)
+### 🛠️ Technical & Industrial Competencies
 
+#### 🏭 1. Factory Operations & Heavy Fabrication
+![Factory Management](https://img.shields.io/badge/Factory_Management-Operations_Leadership-darkblue?style=for-the-badge)
+![Steel Fabrication](https://img.shields.io/badge/Steel_Fabrication-Heavy_Structures-dimgrey?style=for-the-badge)
+![Scaffolding & Formwork](https://img.shields.io/badge/Formwork_%26_Scaffolding-Modular_Systems-orange?style=for-the-badge)
+![Racking Systems](https://img.shields.io/badge/Industrial_Racking-Storage_Solutions-brown?style=for-the-badge)
+![Shop Floor Control](https://img.shields.io/badge/Shop_Floor_Control-Capacity_Planning-2e7d32?style=for-the-badge)
+
+#### 📈 2. Production Planning, Cost Control & Supply Chain
+![Production Planning](https://img.shields.io/badge/Production_Planning-MPS_%2F_MRP-blue?style=for-the-badge)
+![Cost Control](https://img.shields.io/badge/Cost_Control-Job_Order_Costing_%26_BOQ-teal?style=for-the-badge)
+![Inventory Coordination](https://img.shields.io/badge/Warehouse_Control-Strategic_Stock-green?style=for-the-badge)
+![Procurement](https://img.shields.io/badge/Procurement-Supplier_Management-purple?style=for-the-badge)
+
+#### 🎯 3. Operational Excellence & Quality Frameworks
+![Lean Manufacturing](https://img.shields.io/badge/Lean_Manufacturing-5S_%2F_Waste_Reduction-0052cc?style=for-the-badge)
+![Six Sigma Green Belt](https://img.shields.io/badge/Six_Sigma-Green_Belt_Certified-006600?style=for-the-badge)
+![ISO 9001](https://img.shields.io/badge/Quality_Assurance-ISO_9001_Internal_Audit-800000?style=for-the-badge)
+![Preventive Maintenance](https://img.shields.io/badge/Preventive_Maintenance-OEE_Optimization-d9534f?style=for-the-badge)
+
+#### 📐 4. Engineering Design & Technical Office
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Shop_Drawings-red?style=for-the-badge&logo=autodesk)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-Product_Design-darkred?style=for-the-badge)
+![Technical Office](https://img.shields.io/badge/Technical_Office-Standardization_%26_R%26D-navy?style=for-the-badge)
+
+#### 💻 5. ERP, Digital Automation & Business Intelligence
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX_23.2-Enterprise_Workflows-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Advanced_Engine-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Executive_Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SAP PP/MM](https://img.shields.io/badge/ERP_Systems-SAP_PP_%2F_MM-0b5394?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ### 💼 Key Focus Areas
